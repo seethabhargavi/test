@@ -1,0 +1,2 @@
+Why we need Upcasting and Downcasting?
+In Java, we rarely use Upcasting. We use it when we need to develop a code that deals with only the parent class. Downcasting is used when we need to develop a code that accesses behaviors of the child class.
